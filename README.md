@@ -27,6 +27,7 @@ Key features:
 5. The add-on will produce two outputs:
    - A 3D scene of the SAR system (which can be exported or rendered)
    - A list of recommended components that meet your project requirements, along with estimated budget
+Note: The Blender file must be saved to generate the system proposal, which is output as a .txt file in the same directory
 
 ## Notes
 - The component database is based on commercially available off-the-shelf products . Local availability may vary.
